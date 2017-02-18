@@ -1,0 +1,38 @@
+<table style="width: 1000px;" border="0" align="center">
+<tbody>
+<tr>
+<td><div style="text-align:center; width:1000px; margin-left:auto; margin-right:auto;">
+<img id="Image-Maps_8201207301707569" src="http://androstyle.ru/static/files/top.jpg" usemap="#Image-Maps_8201207301707569" border="0" width="1000" height="172" alt="" />
+<map id="_Image-Maps_8201207301707569" name="Image-Maps_8201207301707569">
+<area shape="rect" coords="911,9,987,60" href="http://aukro.ua/email_to_user.php?uid=16257958" alt="Задайте мне вопрос" title="Задайте мне вопрос"    />
+<area shape="rect" coords="815,125,980,161" href="http://aukro.ua/listing/user.php?us_id=16257958" alt="Посмотреть все лучшие лоты" title="Посмотреть все лучшие лоты"    />
+<area shape="rect" coords="512,125,626,161" href="http://aukro.ua/my_page.php?uid=16257958" alt=""Обо мне" и правила покупок в моём аукционе" title=""Обо мне" и правила покупок в моём аукционе"    />
+<area shape="rect" coords="647,124,796,160" href="http://aukro.ua/show_user.php?uid=16257958" alt="Отзывы покупателей обо мне" title="Отзывы покупателей обо мне"    />
+<area shape="rect" coords="4,3,306,167" href="http://aukro.ua/listing/user.php?us_id=16257958" alt="" title=""    />
+</map>
+</div></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><img src="http://androstyle.ru//static/files/boottom.jpg" alt="" width="1000" height="65" /></td>
+</tr>
+</tbody>
+</table>
+
+-------------------
+www.image-maps.com
+-------------------
+
+<div style="text-align:center; width:1000px; margin-left:auto; margin-right:auto;">
+<img id="Image-Maps_8201207301707569" src="http://androstyle.ru/static/files/top.jpg" usemap="#Image-Maps_8201207301707569" border="0" width="1000" height="172" alt="" />
+<map id="_Image-Maps_8201207301707569" name="Image-Maps_8201207301707569">
+<area shape="rect" coords="911,9,987,60" href="http://aukro.ua/email_to_user.php?uid=16257958" alt="Задайте мне вопрос" title="Задайте мне вопрос"    />
+<area shape="rect" coords="815,125,980,161" href="http://aukro.ua/listing/user.php?us_id=16257958" alt="Посмотреть все лучшие лоты" title="Посмотреть все лучшие лоты"    />
+<area shape="rect" coords="512,125,626,161" href="http://aukro.ua/my_page.php?uid=16257958" alt=""Обо мне" и правила покупок в моём аукционе" title=""Обо мне" и правила покупок в моём аукционе"    />
+<area shape="rect" coords="647,124,796,160" href="http://aukro.ua/show_user.php?uid=16257958" alt="Отзывы покупателей обо мне" title="Отзывы покупателей обо мне"    />
+<area shape="rect" coords="4,3,306,167" href="http://aukro.ua/listing/user.php?us_id=16257958" alt="" title=""    />
+</map>
+</div>
+            

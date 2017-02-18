@@ -1,0 +1,93 @@
+<table align="center" border="0" style="width: 1000px;">
+<tbody>
+<tr>
+<td colspan="4">
+<div style="text-align: center; width: 1000px; margin-left: auto; margin-right: auto;"><img border="0" height="172" id="Image-Maps_8201207301707569" src="http://androstyle.ru/static/files/top.jpg" usemap="#Image-Maps_8201207301707569" width="1000" /> 
+<map id="_Image-Maps_8201207301707569" name="Image-Maps_8201207301707569">
+<area alt="Задайте мне вопрос" coords="911,9,987,60" href="http://aukro.ua/email_to_user.php?uid=16257958" shape="rect" title="Задайте мне вопрос" />
+<area alt="Посмотреть все лучшие лоты" coords="815,125,980,161" href="http://aukro.ua/listing/user.php?us_id=16257958" shape="rect" title="Посмотреть все лучшие лоты" />
+<area coords="512,125,626,161" href="http://aukro.ua/my_page.php?uid=16257958" shape="rect" />
+<area alt="Отзывы покупателей обо мне" coords="647,124,796,160" href="http://aukro.ua/show_user.php?uid=16257958" shape="rect" title="Отзывы   покупателей обо мне" />
+<area coords="4,3,306,167" href="http://aukro.ua/listing/user.php?us_id=16257958" shape="rect" /> 
+</map>
+</div>
+<div style="text-align: center; width: 1000px; margin-left: auto; margin-right: auto;"></div>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" scope="col" style="width: 50px;" valign="top"></td>
+<td rowspan="6" style="text-align: center; width: 690px;" valign="top">
+<p style="font-size: 10px;">&nbsp;</p>
+<p style="font-size: 10px;"><span style="color: #ff0000; font-size: large;"><strong>Смартфон Zopo ZP100 4.3" qHD MTK6575 Android 4.0</strong></span><br /><span style="font-size: large; color: #ff0000;">2 SIM 512Mb RAM 4Gb Flash 3G GPS WIFI</span><br /><span style="font-size: large; color: #ff0000;">(копия HTC EVO 3D)</span></p>
+<p style="font-size: 10px; text-align: justify;">&nbsp;</p>
+<p style="font-size: 10px; text-align: justify;"><strong style="color: #7aa300; font-size: medium;">Ключевые особенности:</strong></p>
+<ul style="font-size: 10px; text-align: right; list-style-type: square;">
+<li style="text-align: justify;"><span style="font-size: small; color: #646464;">Мощный современный процессор&nbsp;<strong>MTK6575 1GHz (Cortex A9)</strong>&nbsp;- ВСЕ СОВРЕМЕННЫЕ ИГРЫ "ЛЕТАЮТ"! Интерфейс совсем не тормозит!</span></li>
+<li style="text-align: justify;"><span style="font-size: small; color: #646464;">Большой экран&nbsp;<strong>4,3" (Sharp AVS)</strong>&nbsp;с разрешением настоящего флагмана&nbsp;<strong>960х540</strong>.&nbsp;<strong>Материал - СТЕКЛО!</strong>&nbsp;Очень насыщенные цвета!</span></li>
+<li style="text-align: justify;"><span style="font-size: small; color: #646464;"><strong>Две активные SIM-карты</strong>&nbsp;(одну из них можно использовать для 3G-интернета)&nbsp;</span></li>
+<li style="text-align: justify;"><span style="font-size: small; color: #646464;"><strong>Две камеры</strong>&nbsp;- основная 5Мп (авто-фокус) и фронтальная для Skype 0,3Мп</span></li>
+<li style="text-align: justify;"><span style="font-size: small; color: #646464;"><strong>Качественная сборка и современные материалы корпуса.</strong>&nbsp;Мягкий прорезиненный пластик позволяет крепко держать смартфон в руках.</span></li>
+<li style="text-align: justify;"><span style="font-size: small; color: #646464;"><strong>Операционная система Android 4.0.</strong>&nbsp;Очень стабильно работает и постоянно обновляется производителем и сообществом владельцев.</span></li>
+</ul>
+<p style="font-size: 10px; text-align: justify;"><strong style="color: #7aa300; font-size: medium;">Дополнительные фотографии:</strong></p>
+<p style="font-size: 10px; text-align: right;">&nbsp;<img alt="2012-04-1101.jpg" src="http://www.pandawill.com/media/banner/2012-04-1101.jpg" style="cursor: default; display: block; margin-left: auto; margin-right: auto;" /></p>
+<div class="std" style="font-size: 10px; text-align: right;">
+<p><img alt="2012-04-1103.jpg" src="http://www.pandawill.com/media/banner/2012-04-1103.jpg" style="cursor: default; display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="2012-04-1104.jpg" src="http://www.pandawill.com/media/banner/2012-04-1104.jpg" style="cursor: default; display: block; margin-left: auto; margin-right: auto;" /></p>
+<div>&nbsp;</div>
+</div>
+<p style="font-size: 10px; text-align: justify;"><span style="color: #7aa300; font-size: medium;"><strong>Технические характеристики:<span style="text-align: left;">&nbsp;</span></strong></span></p>
+<p style="font-size: 10px; text-align: left;"><span style="font-size: small; color: #646464;"><strong>Операционная система:</strong>&nbsp;Google Android 4.0.3</span><br /><span style="font-size: small; color: #646464;"><strong>Процессор</strong>:&nbsp;<span style="color: #ff0000;"><strong>MTK 6575 1HGz</strong></span></span><br /><span style="font-size: small; color: #646464;"><strong>Оперативная память (RAM):</strong>&nbsp;<span style="color: #ff0000;"><strong>512MB</strong></span></span><br /><span style="font-size: small; color: #646464;"><strong>Встроенная флэш-память (ROM):</strong>&nbsp;4GB + карты памяти microSD до 64GB</span><br /><span style="font-size: small; color: #646464;"><strong>Стандарты связи:</strong>&nbsp;GSM 850/900/1800/1900,WCDMA850/2100MHz.&nbsp;</span><br /><span style="font-size: small; color: #646464;"><strong>Количество симкарт:</strong>&nbsp;<span style="color: #ff0000;"><strong>2 активные симкарты</strong></span></span><br /><span style="font-size: small; color: #646464;"><strong>Дисплей:</strong>&nbsp;<span style="color: #ff0000;"><strong>4.3 дюйма 540x960 (QHD), Sharp ASV</strong></span></span><br /><span style="font-size: small; color: #646464;"><strong>Сенсор:</strong>&nbsp;Емкостной (5 одновременных касаний)</span><br /><span style="font-size: small; color: #646464;"><strong>Датчики:</strong>&nbsp;света, приближения, гироскоп, компас.</span><br /><span style="font-size: small; color: #646464;"><strong>Радио:</strong>&nbsp;Есть, наушники используются в качестве антенны.</span><br /><span style="font-size: small; color: #646464;"><strong>Камера:</strong>&nbsp;<span style="color: #ff0000;"><strong>5Мп с автофокусом</strong></span>&nbsp;и LED подсветкой основная, 0.3 Мп для видеозвонков</span><br /><span style="font-size: small; color: #646464;"><strong>Видеосъемка:</strong>&nbsp;720p (1280 &times; 720,30 кадров/с)</span><br /><span style="font-size: small; color: #646464;"><strong>Сетевые интерфейсы:</strong>&nbsp;Wifi 802.11 b/g/n, Bluetooth 3.0&nbsp;</span><br /><span style="font-size: small; color: #646464;"><strong>Навигация:</strong>&nbsp;Есть, полноценный спутниковый&nbsp;<span style="color: #ff0000;"><strong>GPS, А-GPS</strong></span></span><br /><span style="font-size: small; color: #646464;"><strong>Аудиовыход:</strong>&nbsp;встроенный динамик / выход для наушников 3.5мм</span><br /><span style="font-size: small; color: #646464;"><strong>Питание:</strong>&nbsp;Батареи емкостью&nbsp;<span style="color: #ff0000;"><strong>1650 mAh</strong></span></span><br /><span style="font-size: small; color: #646464;"><strong>Размеры</strong>: 126.3х65.2х12.2(корпус) 13.5(выступ камеры)мм</span><br /><span style="font-size: small; color: #646464;"><strong>Вес:</strong>&nbsp;136 г&nbsp;</span></p>
+<p style="font-size: 10px; text-align: left;"><span style="font-size: small;"><br /></span></p>
+<p style="font-size: 10px; text-align: justify;"><span style="color: #646464;"><strong><span style="font-size: small;">По желанию покупателя могу перед отправкой прошить на самую свежую прошивку + все дополнения/улучшения, которые есть на этот телефон.</span></strong></span></p>
+<h3 style="color: #ff0000; text-align: justify;"></h3>
+<center></center></td>
+<td rowspan="6" style="text-align: center; width: 10px;" valign="top">
+<h3 style="color: #ff0000; text-align: center;"></h3>
+<h3 style="color: #ff0000; text-align: center;"></h3>
+</td>
+<td align="left" style="text-align: center; width: 250px;" valign="top">
+<h3 style="color: #ff0000; text-align: center;"><img height="48" src="http://androstyle.ru/static/files/menu_opl.jpg" title="Условия оплаты и правила" width="230" /></h3>
+</td>
+</tr>
+<tr>
+<td align="left" style="text-align: center; width: 250px;" valign="top">
+<p style="text-align: justify;"><span style="font-size: small; color: #239008;"> Сделав ставку, покупатель обязан оплатить лот в течение    <strong>7  дней</strong> после покупки. Оплата на карту <strong>Приват-банка</strong>, <strong>OTP-банка</strong> или через <strong>Webmoney</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-size: small; color: #239008;"> Реквизиты для оплаты Вы получите в письме-уведомлении о покупке лота. Товар отправляется <strong>ТОЛЬКО после предоплаты</strong> и вашего уведомления об этом (дата, сумма оплаты и данные для отправки товара).</span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top">
+<p><img height="48" src="http://androstyle.ru/static/files/menu_dost.jpg" title="Условия доставки" width="230" /></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top">
+<p style="text-align: justify;"><span style="font-size: small; color: #ff6600;"><strong> Лоты "в наличии" - </strong>доставка осуществляется в течение 1-3 дней после оплаты. </span></p>
+<p style="text-align: justify;"><span style="font-size: small; color: #ff6600;"><strong> Лоты "под заказ" -</strong> доставка этих лотов осуществляется в течение 2-4 недель после оплаты.</span></p>
+<p style="text-align: justify;"><span style="font-size: small;"> </span></p>
+</td>
+</tr>
+<tr>
+<td align="left" style="text-align: left;" valign="top">
+<p><img height="48" src="http://androstyle.ru/static/files/menu_gar.jpg" style="display: block; margin-left: auto; margin-right: auto;" title="Условия гарантия" width="230" /></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="text-align: justify;"><span style="font-size: x-small; color: #3366ff;"><strong> <span style="font-size: small;">Каждый товар перед отправкой  Вам  проверяется на <strong>отсутствие дефектов и </strong>работоспособность.</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: small; color: #3366ff;"> <strong>Гарантия - 12 месяцев </strong>от производителя (если не указан другой срок в описании самого лота). Доставка в Сервисный центр - за счёт<strong> покупателя</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-size: x-small; color: #3366ff;"><span style="font-size: small;"> В течение 14 дней от даты отправки Вы имеете возможность вернуть или обменять товар. Он должен быть таким же как при получении, без следов использования, прошивки или вскрытия.</span> </span></p>
+</td>
+</tr>
+<tr>
+<td colspan="4"><img height="65" src="http://androstyle.ru//static/files/boottom.jpg" width="1000" /></td>
+</tr>
+<tr>
+<td colspan="4"><a href="http://aukro.ua/myaccount/favourites/favourites_sellers.php/addNew/?userId=16257958"><img src="http://static.allegrostatic.pl/site_images/209/0/add_me.gif" /></a>
+<p>##top_user_validator:51193a65cbb7cc6a2b273e8d60571095##</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,101 @@
+<table style="width: 1000px;" border="0" align="center">
+<tbody>
+<tr>
+<td colspan="4">
+<div style="text-align: center; width: 1000px; margin-left: auto; margin-right: auto;"><img id="Image-Maps_8201207301707569" src="http://androstyle.ru/static/files/top.jpg" alt="" width="1000" height="172" usemap="#Image-Maps_8201207301707569" border="0" /> <map id="_Image-Maps_8201207301707569" name="Image-Maps_8201207301707569"> 
+<area title="Задайте мне вопрос" shape="rect" coords="911,9,987,60" href="http://aukro.ua/email_to_user.php?uid=16257958" alt="Задайте мне вопрос" />
+ 
+<area title="Посмотреть все лучшие лоты" shape="rect" coords="815,125,980,161" href="http://aukro.ua/listing/user.php?us_id=16257958" alt="Посмотреть все лучшие лоты" />
+ 
+<area shape="rect" coords="512,125,626,161" href="http://aukro.ua/my_page.php?uid=16257958" />
+ 
+<area title="Отзывы   покупателей обо мне" shape="rect" coords="647,124,796,160" href="http://aukro.ua/show_user.php?uid=16257958" alt="Отзывы покупателей обо мне" />
+ 
+<area shape="rect" coords="4,3,306,167" href="http://aukro.ua/listing/user.php?us_id=16257958" />
+ </map></div>
+<div style="text-align: center; width: 1000px; margin-left: auto; margin-right: auto;">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50px;" scope="col" rowspan="6" align="left" valign="top">&nbsp;</td>
+<td style="text-align: center; width: 690px;" rowspan="6" align="left" valign="top">
+<h3 style="color: #ff0000;">&nbsp;<strong style="text-align: center;"><span class="&lt;img src=" style="font-size: medium; color: #ff6600;" title="http://radikal.ua/data/upload/4fa6c/49112/8986488993.jpg">Приветствуем Вас в нашем интернет-магазине!</span></strong></h3>
+<p><strong><span class="&lt;img src=" style="font-size: medium; color: #ff6600;" title="http://radikal.ua/data/upload/4fa6c/49112/8986488993.jpg"><br /></span></strong></p>
+<p style="text-align: justify;"><span style="font-size: small;"><strong><span class="&lt;img src=" title="http://static.allegrostatic.pl/site_images/209/0/add_me.gif">Спасибо за проявленный интерес к нашим лотам!</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><span class="&lt;img src=" title="http://static.allegrostatic.pl/site_images/209/0/add_me.gif">Мы занимаемся продажей компьютерной техники по низким ценам.&nbsp;</span><span class="undefined">В&nbsp;</span><strong><a class="undefined" href="http://aukro.ua/show_user_auctions.php?uid=16257958">списке наших лотов</a></strong>&nbsp;есть как<strong>&nbsp;</strong>новые товары с гарантией от производителя, так и товары, бывшие в употреблении.</span></p>
+<p><span class="undefined" style="font-size: small;"><br /></span></p>
+<p><span style="font-size: small;"><strong class="undefined"><a class="undefined" href="http://aukro.ua/show_user.php?uid=16257958">ОТЗЫВЫ О НАС</a>&nbsp;&nbsp;&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="undefined"><a href="http://aukro.ua/show_user_auctions.php?uid=16257958"><strong class="undefined">ВСЕ НАШИ ЛОТЫ</strong></a></span><a href="http://aukro.ua/show_user_auctions.php?uid=16257958">&nbsp;</a></span></p>
+<hr />
+<p><span class="undefined" style="font-size: small;"><strong>КОНТАКТЫ</strong></span></p>
+<div style="text-align: justify;"><span style="font-size: small;"><span class="undefined">Если у Вас возникли какие-либо вопросы -&nbsp;</span><strong><a class="undefined" href="http://aukro.ua/email_to_user.php?uid=16257958">спрашивайте</a></strong><strong><br /></strong></span></div>
+<div><span class="undefined" style="font-size: small;">&nbsp;</span></div>
+<hr />
+<div><span class="undefined" style="font-size: small;"><strong>ОПЛАТА</strong></span></div>
+<div style="text-align: justify;"><span class="undefined" style="font-size: small;">Оплатить купленный Вами товар Вы можете на одну из карточек:</span></div>
+<div><span class="undefined" style="font-size: small;"><img src="http://radikal.ua/data/upload/6895e/04012/11fcdcfbb9.gif" alt="" /><em><strong>&nbsp; &nbsp;&nbsp;</strong></em></span></div>
+<div><span style="font-size: small;"><img src="http://radikal.ua/data/upload/4fa6c/49112/8986488993.jpg" alt="" />&nbsp; &nbsp; &nbsp;&nbsp;</span></div>
+<hr />
+<div><span class="undefined" style="font-size: small;">&nbsp;<strong>ДОСТАВКА</strong></span></div>
+<div style="text-align: justify;"><span style="font-size: small;"><span class="undefined">&nbsp;<strong>Доставка товара по Украине</strong>&nbsp;осуществляется службами доставки: "Новая почта",&nbsp;"Ночной Экспресс" и&nbsp;"Украинский Экспресс".&nbsp;</span><span class="undefined">В случае отсутствия офисов этих служб доставки в Вашем городе, способ доставки обговаривается индивидуально.</span></span></div>
+<div style="text-align: justify;"><span class="undefined" style="font-size: small;"><br /></span></div>
+<div style="text-align: justify;"><span style="font-size: small;">В параметрах лота указана стоимость доставки товара до склада курьерской службы. Стоимость самой доставки Вы оплачиваете отдельно при получении!</span></div>
+<div><span class="undefined" style="font-size: small;">&nbsp;</span></div>
+<hr />
+<div><span class="undefined" style="font-size: small;"><strong>ПРАВИЛА</strong></span></div>
+<div style="text-align: justify;"><span style="font-size: small;"><span class="undefined">1. Делая ставку на&nbsp;</span><strong><a class="undefined" href="http://aukro.ua/show_user_auctions.php?uid=16257958">один из наших лотов</a></strong>, вы принимаете условия нашего интернет-магазина.</span></div>
+<div style="text-align: justify;"><span style="font-size: small;"><span class="undefined">2. Прежде, чем сделать ставку/совершить покупку, внимательно ознакомьтесь с описанием/деталями предлагаемого лота. Если у Вас есть дополнительные вопросы,&nbsp;</span><strong><a class="undefined" href="http://aukro.ua/email_to_user.php?uid=16257958">задайте их</a></strong>&nbsp;<strong>ДО</strong>&nbsp;того, как Вы сделаете ставку!</span></div>
+<div style="text-align: justify;"><span class="undefined" style="font-size: small;">3. После покупки товара желательно, чтобы Вы сами первым вышли на связь в течение первых 3-х дней после завершения аукциона.</span></div>
+<div style="text-align: justify;"><span style="font-size: small;"><span class="undefined">4. После оплаты товара,&nbsp;<strong>ОБЯЗАТЕЛЬНО</strong>&nbsp;сообщите об этом либо по телефону, либо&nbsp;</span><strong><a class="undefined" href="http://aukro.ua/email_to_user.php?uid=16257958">отправив сообщение</a></strong>.</span></div>
+<div style="text-align: justify;"><span class="undefined" style="font-size: small;">5. Товар отправляется&nbsp;<strong>ТОЛЬКО</strong>&nbsp;после предоплаты товара.&nbsp;</span></div>
+<div><span class="undefined" style="font-size: small;">&nbsp;</span></div>
+<div><span class="undefined" style="font-size: small;"><strong class="undefined">Желаем Вам приятных торгов и удачных покупок!</strong></span></div>
+</td>
+<td style="text-align: center; width: 10px;" rowspan="6" valign="top">
+<h3 style="color: #ff0000; text-align: center;">&nbsp;</h3>
+<h3 style="color: #ff0000; text-align: center;">&nbsp;</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align: center; width: 250px;" align="left" valign="top">
+<h3 style="color: #ff0000; text-align: center;"><img title="Условия оплаты и правила" src="http://androstyle.ru/static/files/menu_opl.jpg" alt="" width="230" height="48" /></h3>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 250px;" align="left" valign="top">
+<p style="text-align: justify;"><span style="font-size: small;">&nbsp; &nbsp; Сделав ставку, покупатель обязан оплатить лот в течение &nbsp; &nbsp;<strong>7 &nbsp;дней</strong> после покупки. Оплата на карту <strong>Приват-банка</strong>, <strong>OTP-банка</strong> или через <strong>Webmoney</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-size: small;">&nbsp; &nbsp; Реквизиты для оплаты Вы получите в письме-уведомлении о покупке лота. Товар отправляется <strong>ТОЛЬКО после предоплаты</strong> и вашего уведомления об этом (дата, сумма оплаты и данные для отправки товара).</span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top">
+<p><img title="Условия доставки" src="http://androstyle.ru/static/files/menu_dost.jpg" alt="" width="230" height="48" />&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top">
+<p style="text-align: justify;"><span style="font-size: small;"><strong>&nbsp; &nbsp; Лоты "в наличии" - </strong>доставка осуществляется в течение 1-3 дней после оплаты.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><strong>&nbsp; &nbsp; Лоты "под заказ" -</strong>&nbsp;доставка этих лотов осуществляется в течение 2-4 недель после оплаты.</span></p>
+<p style="text-align: justify;"><span style="font-size: small;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;" align="left" valign="top">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="Условия гарантия" src="http://androstyle.ru/static/files/menu_gar.jpg" alt="" width="230" height="48" /></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="text-align: justify;"><span style="font-size: x-small;"><strong>&nbsp; <span style="font-size: small;">Каждый товар перед отправкой &nbsp;Вам &nbsp;проверяется на <strong><span>отсутствие дефектов и&nbsp;</span></strong>работоспособность.</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: small;">&nbsp; &nbsp; <strong>Гарантия - 12 месяцев&nbsp;</strong>от производителя (если не указан другой срок в описании самого лота). Доставка в Сервисный центр - за счёт<strong> покупателя</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-size: x-small;"><span style="font-size: small;">&nbsp; &nbsp; В течение 14 дней от даты отправки Вы имеете возможность вернуть или обменять товар. Он должен быть таким же как при получении, без следов использования, прошивки или вскрытия.</span>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="4"><img src="http://androstyle.ru//static/files/boottom.jpg" alt="" width="1000" height="65" />&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4">&nbsp;<a href="http://aukro.ua/myaccount/favourites/favourites_sellers.php/addNew/?userId=16257958"><img src="http://static.allegrostatic.pl/site_images/209/0/add_me.gif" alt="" /></a>
+<p>&nbsp;##top_user_validator:51193a65cbb7cc6a2b273e8d60571095##</p>
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
